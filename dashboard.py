@@ -144,7 +144,7 @@ def apply_filters(df: pd.DataFrame) -> tuple[pd.DataFrame, str, str, str, str]:
     time_granularity = st.sidebar.radio(
         "Vista temporal",
         options=["Semanal", "Mensual"],
-        index=0,
+        index=1,
     )
 
     if "authors_filter" not in st.session_state:
@@ -496,7 +496,12 @@ def render_table(df: pd.DataFrame, sentiment_column: str) -> None:
 
 
 def main() -> None:
-    st.set_page_config(page_title="SIMCI X Dashboard", page_icon="📊", layout="wide")
+    st.set_page_config(
+        page_title="SIMCI X Dashboard",
+        page_icon="📊",
+        layout="wide",
+        initial_sidebar_state="expanded",
+    )
     st.markdown(
         """
         <style>
@@ -565,23 +570,28 @@ def main() -> None:
             box-shadow: 0 0 0 1px rgba(252, 190, 133, 0.58) !important;
           }
           .block-container {
-            padding-top: 1.2rem;
+            padding-top: 2.2rem;
             padding-bottom: 2.2rem;
             max-width: 1500px;
           }
           .dashboard-title {
-            text-align: center;
-            margin: 0.05rem 0 0.2rem 0;
+            text-align: left;
+            margin: 0.2rem 0 0.35rem 0;
             color: #0b3043;
             letter-spacing: 0.1px;
           }
           .dashboard-subtitle {
-            text-align: center;
-            margin: 0 auto 1rem auto;
-            max-width: 980px;
+            text-align: left;
+            margin: 0 0 1rem 0;
+            width: 100%;
             color: #33596f;
             font-size: 1.0rem;
             line-height: 1.4;
+          }
+          .dashboard-subtitle-wrap {
+            width: 100%;
+            display: flex;
+            justify-content: flex-start;
           }
           .kpi-grid {
             display: grid;
@@ -653,9 +663,11 @@ def main() -> None:
     st.markdown('<h1 class="dashboard-title">Conversación sobre SIMCI en X</h1>', unsafe_allow_html=True)
     st.markdown(
         """
-        <p class="dashboard-subtitle">
-        Analizamos las menciones a SIMCI en X para identificar tono, tendencias y narrativas clave usando inteligencia artificial (procesamiento del lenguaje natural).
-        </p>
+        <div class="dashboard-subtitle-wrap">
+          <p class="dashboard-subtitle">
+            Analizamos las menciones a SIMCI en X para identificar tono, tendencias y narrativas utilizando técnicas de procesamiento del lenguaje natural.
+          </p>
+        </div>
         """,
         unsafe_allow_html=True,
     )
