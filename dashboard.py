@@ -10,7 +10,7 @@ import streamlit as st
 DEFAULT_DATA_PATH = Path("data/processed/tweets_sentiment.csv")
 SENTIMENT_ORDER = ["POS", "NEU", "NEG"]
 SENTIMENT_COLORS = {"POS": "#00A878", "NEU": "#3A506B", "NEG": "#D1495B"}
-SENTIMENT_LABEL_ES = {"POS": "Positivo", "NEU": "Neutral", "NEG": "Negativo"}
+SENTIMENT_LABEL_ES = {"POS": "Pos", "NEU": "Neu", "NEG": "Neg"}
 UI_FONT_FAMILY = "Manrope, Segoe UI, sans-serif"
 EXCLUDED_HANDLES = {"@simciupp", "@uppachuca", "@cib_uppachuca"}
 WEIGHTING_OPTIONS = {
@@ -497,6 +497,62 @@ def main() -> None:
           }
           .stApp {
             background: radial-gradient(circle at top right, #eaf5f7 0%, #ddeaf2 44%, #f7f6f2 100%);
+          }
+          #root > div:nth-child(1) > div > div > div > div > section > div {
+            padding-top: 0rem;
+          }
+          [data-testid="stSidebar"] {
+            background: linear-gradient(180deg, #133a55 0%, #1b4f6d 100%);
+            border-right: 1px solid rgba(255, 255, 255, 0.16);
+            --sidebar-accent: #FCBE85;
+          }
+          [data-testid="stSidebar"] * {
+            color: #e8f2f8;
+          }
+          [data-testid="stSidebar"] .stRadio > label,
+          [data-testid="stSidebar"] .stMultiSelect > label,
+          [data-testid="stSidebar"] .stSlider > label {
+            color: #FCBE85;
+            font-weight: 700;
+          }
+          [data-testid="stSidebar"] [data-baseweb="select"] > div,
+          [data-testid="stSidebar"] [data-baseweb="select"] input,
+          [data-testid="stSidebar"] .stDateInput input,
+          [data-testid="stSidebar"] .stTextInput input {
+            background: rgba(255, 255, 255, 0.08) !important;
+            color: #f2f8fc !important;
+            border-color: rgba(255, 255, 255, 0.25) !important;
+          }
+          [data-testid="stSidebar"] .stSlider {
+            background: transparent !important;
+            border: none !important;
+            padding: 0 !important;
+          }
+          [data-testid="stSidebar"] input[type="radio"],
+          [data-testid="stSidebar"] input[type="checkbox"] {
+            accent-color: var(--sidebar-accent) !important;
+          }
+          [data-testid="stSidebar"] [data-baseweb="tag"] {
+            background: rgba(252, 190, 133, 0.28);
+            color: #FCBE85;
+            border: 1px solid rgba(252, 190, 133, 0.88);
+          }
+          [data-testid="stSidebar"] [data-baseweb="slider"] div {
+            color: #f2f8fc;
+          }
+          [data-testid="stSidebar"] [data-baseweb="slider"] > div > div > div:nth-child(2),
+          [data-testid="stSidebar"] [data-baseweb="slider"] > div > div > div:nth-child(3) {
+            background: var(--sidebar-accent) !important;
+          }
+          [data-testid="stSidebar"] [data-baseweb="slider"] div[role="slider"] {
+            background: var(--sidebar-accent) !important;
+            border-color: var(--sidebar-accent) !important;
+          }
+          [data-testid="stSidebar"] [data-baseweb="select"] > div:focus-within,
+          [data-testid="stSidebar"] .stDateInput input:focus,
+          [data-testid="stSidebar"] .stTextInput input:focus {
+            border-color: var(--sidebar-accent) !important;
+            box-shadow: 0 0 0 1px rgba(252, 190, 133, 0.58) !important;
           }
           .block-container {
             padding-top: 1.2rem;
