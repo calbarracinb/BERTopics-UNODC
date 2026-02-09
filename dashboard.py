@@ -19,6 +19,11 @@ WEIGHTING_OPTIONS = {
     "Ponderado por reposts": ("reposts", "peso por reposts"),
     "Ponderado por likes": ("likes", "peso por likes"),
 }
+PLOTLY_CONFIG = {
+    "scrollZoom": False,
+    "displayModeBar": False,
+    "displaylogo": False,
+}
 
 
 def format_number_es(value: float | int, decimals: int = 0) -> str:
@@ -47,6 +52,8 @@ def _style_figure(fig) -> None:
     )
     fig.update_xaxes(title_standoff=14, gridcolor="rgba(41, 64, 84, 0.10)")
     fig.update_yaxes(title_standoff=14, gridcolor="rgba(41, 64, 84, 0.10)")
+    fig.update_xaxes(fixedrange=True)
+    fig.update_yaxes(fixedrange=True)
     fig.update_coloraxes(colorbar_tickformat="~s")
 
 
@@ -286,7 +293,7 @@ def render_charts(df: pd.DataFrame, sentiment_column: str, weight_mode: str, wei
             texttemplate="%{label}<br>%{text}",
         )
         _style_figure(fig_sent)
-        st.plotly_chart(fig_sent, use_container_width=True)
+        st.plotly_chart(fig_sent, use_container_width=True, config=PLOTLY_CONFIG)
         if weight_mode != "raw":
             st.caption(f"Visualización ponderada por {weight_label}.")
 
@@ -304,7 +311,7 @@ def render_charts(df: pd.DataFrame, sentiment_column: str, weight_mode: str, wei
             fig_tl.update_traces(stackgroup="one")
             fig_tl.update_yaxes(tickformat="~s")
             _style_figure(fig_tl)
-            st.plotly_chart(fig_tl, use_container_width=True)
+            st.plotly_chart(fig_tl, use_container_width=True, config=PLOTLY_CONFIG)
         else:
             st.info("No hay fechas válidas para graficar la evolución temporal.")
 
@@ -338,7 +345,7 @@ def render_charts(df: pd.DataFrame, sentiment_column: str, weight_mode: str, wei
         fig_cumulative.update_traces(stackgroup="one")
         fig_cumulative.update_yaxes(tickformat="~s")
         _style_figure(fig_cumulative)
-        st.plotly_chart(fig_cumulative, use_container_width=True)
+        st.plotly_chart(fig_cumulative, use_container_width=True, config=PLOTLY_CONFIG)
 
     chart_col_3, chart_col_4 = st.columns(2, gap="large")
 
@@ -370,11 +377,17 @@ def render_charts(df: pd.DataFrame, sentiment_column: str, weight_mode: str, wei
                 fig_accounts,
                 use_container_width=True,
                 key="top_accounts_chart",
+                config=PLOTLY_CONFIG,
                 on_select="rerun",
                 selection_mode=("points",),
             )
         except TypeError:
-            st.plotly_chart(fig_accounts, use_container_width=True, key="top_accounts_chart_fallback")
+            st.plotly_chart(
+                fig_accounts,
+                use_container_width=True,
+                key="top_accounts_chart_fallback",
+                config=PLOTLY_CONFIG,
+            )
 
         if isinstance(event, dict):
             points = event.get("selection", {}).get("points", [])
@@ -405,7 +418,7 @@ def render_charts(df: pd.DataFrame, sentiment_column: str, weight_mode: str, wei
         fig_scatter.update_xaxes(tickformat="~s")
         fig_scatter.update_yaxes(tickformat="~s")
         _style_figure(fig_scatter)
-        st.plotly_chart(fig_scatter, use_container_width=True)
+        st.plotly_chart(fig_scatter, use_container_width=True, config=PLOTLY_CONFIG)
 
     if "emotion_label_es" in df_plot.columns:
         emotion_counts = (
@@ -426,7 +439,7 @@ def render_charts(df: pd.DataFrame, sentiment_column: str, weight_mode: str, wei
         )
         fig_emotion.update_yaxes(tickformat="~s")
         _style_figure(fig_emotion)
-        st.plotly_chart(fig_emotion, use_container_width=True)
+        st.plotly_chart(fig_emotion, use_container_width=True, config=PLOTLY_CONFIG)
 
 
 def render_table(df: pd.DataFrame, sentiment_column: str) -> None:
