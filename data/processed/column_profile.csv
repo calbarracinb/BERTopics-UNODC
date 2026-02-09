@@ -76,90 +76,93 @@ Hay q analizar porque en el gobierno Duque se aumento  el cultivo coca | RAYA tu
 54,css-1jxf684 (28),col_54,2,0.0033,text/mixed,Pegasus | no publicó Informe a tiempo.(1),x-2026-02-08.csv,,content
 55,css-1jxf684 href (8),col_55,2,0.0033,url,https://x.com/A_Espacial_Peru | https://x.com/ElNuevoSiglo,x-2026-02-08.csv,,content
 56,css-1jxf684 href (10),col_56,2,0.0033,url,https://x.com/midagriperu | https://x.com/federicorios,x-2026-02-08.csv,,content
-0,css-175oi2r href,col_00,916,0.9989,url,https://x.com/UPPachuca | https://x.com/AlbertoSierrave | https://x.com/UNODCROCOL | https://x.com/suribe52 | https://x.com/visomutop,x-2026-02-09.csv,author_profile_url,
-1,css-9pa8cd src,col_01,916,0.9989,url,https://pbs.twimg.com/profile_images/1903192066643070976/0FgN8rmS_x96.jpg | https://pbs.twimg.com/profile_images/1887541148945649664/xKEOCJkW_x96.jpg | https://pbs.twimg.com/profile_images/2007944304212279296/rsAzDqug_x96.jpg | https://pbs.twimg.com/profile_images/693483624746872832/qyPh9zgD_x96.jpg | https://pbs.twimg.com/profile_images/1795183009764700161/3BRdxOuB_x96.jpg,x-2026-02-09.csv,,
-2,css-1jxf684,col_02,917,1.0,text/mixed,Universidad Politécnica de Pachuca | Alberto Sierra | UNODC Región Andina y Cono Sur | Sergio Uribe | Viso Mutop,x-2026-02-09.csv,author_name,
-3,css-1jxf684 (2),col_03,917,1.0,handle,@UPPachuca | @UNODCROCOL | @AlbertoSierrave | @suribe52 | @visomutop,x-2026-02-09.csv,author_handle,
-4,css-1jxf684 (3),col_04,916,0.9989,text/mixed,·,x-2026-02-09.csv,,
-5,css-146c3p1 href,col_05,916,0.9989,url,https://x.com/UNODCROCOL/status/1631323610584317957 | https://x.com/santiagonicols/status/1631313922891427840 | https://x.com/agdahidalguense/status/1980423819731865713 | https://x.com/rommartz/status/1947745814463328538 | https://x.com/AlbertoSierrave/status/1947653859461238980,x-2026-02-09.csv,tweet_url,
-6,css-146c3p1,col_06,916,0.9989,text/mixed,"Oct 18, 2024 | Oct 20, 2022 | Oct 19, 2024 | Jun 9, 2021 | Oct 21, 2022",x-2026-02-09.csv,tweet_date_raw,
-7,css-146c3p1 (2),col_07,391,0.4264,text/mixed,"Replying to 
-@petrogustavo | Replying to 
+0,css-175oi2r href,col_00,1072,0.9991,url,https://x.com/UNODCROCOL | https://x.com/UPPachuca | https://x.com/suribe52 | https://x.com/AlbertoSierrave | https://x.com/visomutop,x-2026-02-09.csv,author_profile_url,
+1,css-9pa8cd src,col_01,1072,0.9991,url,https://pbs.twimg.com/profile_images/1887541148945649664/xKEOCJkW_x96.jpg | https://pbs.twimg.com/profile_images/693483624746872832/qyPh9zgD_x96.jpg | https://pbs.twimg.com/profile_images/1903192066643070976/0FgN8rmS_x96.jpg | https://pbs.twimg.com/profile_images/2007944304212279296/rsAzDqug_x96.jpg | https://pbs.twimg.com/profile_images/1795183009764700161/3BRdxOuB_x96.jpg,x-2026-02-09.csv,,
+2,css-1jxf684,col_02,1073,1.0,text/mixed,UNODC Región Andina y Cono Sur | Universidad Politécnica de Pachuca | Sergio Uribe | Alberto Sierra | Viso Mutop,x-2026-02-09.csv,author_name,
+3,css-1jxf684 (2),col_03,1073,1.0,handle,@UNODCROCOL | @UPPachuca | @suribe52 | @AlbertoSierrave | @visomutop,x-2026-02-09.csv,author_handle,
+4,css-1jxf684 (3),col_04,1072,0.9991,text/mixed,·,x-2026-02-09.csv,,
+5,css-146c3p1 href,col_05,1072,0.9991,url,https://x.com/AlbertoSierrave/status/1947653859461238980 | https://x.com/ButDGOAE/status/1632879928109563906 | https://x.com/UNODCROCOL/status/1631323610584317957 | https://x.com/santiagonicols/status/1631313922891427840 | https://x.com/agdahidalguense/status/1980423819731865713,x-2026-02-09.csv,tweet_url,
+6,css-146c3p1,col_06,1072,0.9991,text/mixed,"Oct 18, 2024 | Oct 20, 2022 | Oct 19, 2024 | Sep 19, 2018 | Oct 21, 2022",x-2026-02-09.csv,tweet_date_raw,
+7,css-146c3p1 (2),col_07,427,0.3979,text/mixed,"Replying to 
 @UNODCROCOL | Replying to 
+@petrogustavo | Replying to 
 @UNODC_PERU | Replying to 
 @visomutop | Replying to 
 @RTVCnoticias
  and 
 @petrogustavo",x-2026-02-09.csv,replying_to_raw,
-8,css-1jxf684 href,col_08,664,0.7241,url,https://x.com/petrogustavo | https://x.com/UNODCROCOL | https://x.com/MinjusticiaCo | https://x.com/hashtag/SIMCI?src=hashtag_click | https://x.com/ELTIEMPO,x-2026-02-09.csv,,content
-9,css-1jxf684 (4),col_09,916,0.9989,text/mixed,"Urgente: producción de cocaína pura en Colombia se disparó: de 1.738 toneladas en 2022 pasó a 2.664 toneladas en 2023, según informe | @petrogustavo | @UNODCROCOL | La | @visomutop",x-2026-02-09.csv,,content
-10,css-1jxf684 (5),col_10,817,0.8909,text/mixed,"and | . | Colombia alcanzó un récord histórico en 2023 con 253,000 ha de cultivos de coca (+10% vs. 2022) y una producción potencial de 2,664 toneladas de cocaína (+53%), según el informe | ? | y",x-2026-02-09.csv,,content
-11,css-1jxf684 href (2),col_11,383,0.4177,url,https://x.com/petrogustavo | https://x.com/UNODC | https://x.com/hashtag/OperativoEscudo?src=hashtag_click | https://x.com/hashtag/Colombia?src=hashtag_click | https://x.com/mindefensa,x-2026-02-09.csv,,content
-12,css-1jxf684 (6),col_12,564,0.615,text/mixed,Show more | @petrogustavo | Urgente: producción de cocaína pura en Colombia se disparó: de 1.738 toneladas en 2022 pasó a 2.664... | . | @UltimaHoraCR,x-2026-02-09.csv,,content
-13,css-1jxf684 href (3),col_13,466,0.5082,url,https://x.com/petrogustavo | https://t.co/VOTlyBZ6wb | https://t.co/kn1Ue3sflA | https://x.com/hashtag/Colombia?src=hashtag_click | https://x.com/MinjusticiaCo,x-2026-02-09.csv,,content
-14,css-1jxf684 (7),col_14,518,0.5649,text/mixed,"https://
+8,css-1jxf684 href,col_08,773,0.7204,url,https://x.com/petrogustavo | https://x.com/UNODCROCOL | https://x.com/hashtag/SIMCI?src=hashtag_click | https://x.com/RevistaSemana | https://x.com/hashtag/Colombia?src=hashtag_click,x-2026-02-09.csv,,content
+9,css-1jxf684 (4),col_09,1072,0.9991,text/mixed,"Urgente: producción de cocaína pura en Colombia se disparó: de 1.738 toneladas en 2022 pasó a 2.664 toneladas en 2023, según informe | @UNODCROCOL | @petrogustavo | La coca, los estragos del tercer producto más exportado de Colombia | La",x-2026-02-09.csv,,content
+10,css-1jxf684 (5),col_10,955,0.89,text/mixed,"and | . | vía | ). | Colombia alcanzó un récord histórico en 2023 con 253,000 ha de cultivos de coca (+10% vs. 2022) y una producción potencial de 2,664 toneladas de cocaína (+53%), según el informe",x-2026-02-09.csv,,content
+11,css-1jxf684 href (2),col_11,440,0.4101,url,https://x.com/petrogustavo | https://x.com/UNODC | https://x.com/hashtag/CultivosIl%C3%ADcitos?src=hashtag_click | https://x.com/hashtag/OperativoEscudo?src=hashtag_click | https://x.com/hashtag/Colombia?src=hashtag_click,x-2026-02-09.csv,,content
+12,css-1jxf684 (6),col_12,639,0.5955,text/mixed,Show more | @petrogustavo | . | Urgente: producción de cocaína pura en Colombia se disparó: de 1.738 toneladas en 2022 pasó a 2.664... | @UltimaHoraCR,x-2026-02-09.csv,,content
+13,css-1jxf684 href (3),col_13,567,0.5284,url,https://x.com/petrogustavo | https://t.co/VOTlyBZ6wb | https://x.com/MinjusticiaCo | https://t.co/kn1Ue3sflA | https://x.com/UNODC,x-2026-02-09.csv,,content
+14,css-1jxf684 (7),col_14,636,0.5927,text/mixed,"https://
 eltiempo.com/justicia/confl
 icto-y-narcotrafico/urgente-produccion-de-cocaina-pura-en-colombia-se-disparo-de-1-783-toneladas-en-2022-paso-a-2-664-toneladas-en-2023-simci-3391463
-… | #SIMCI | @petrogustavo | https://
+… | #SIMCI | @petrogustavo | #Colombia | https://
 eltiempo.com/justicia/confl
 icto-y-narcotrafico/cultivos-de-coca-en-colombia-se-dispararon-en-2021-informe-simci-711048
-… | @UNODC",x-2026-02-09.csv,,content
-15,css-1jxf684 (8),col_15,503,0.5485,text/mixed,… | Quote | and 2 others | @petrogustavo | and 3 others,x-2026-02-09.csv,,content
-16,css-1jxf684 (9),col_16,424,0.4624,text/mixed,"SIMCI | Simci | , 2023). | 2023 de UNODC. | .",x-2026-02-09.csv,,content
-17,css-1jxf684 (10),col_17,640,0.6979,text/mixed,SIMCI | Simci | simci | ONU Colombia | IMCI-,x-2026-02-09.csv,,content
-18,css-1jxf684 (11),col_18,199,0.217,text/mixed,". | Distribución 2023:
+…",x-2026-02-09.csv,,content
+15,css-1jxf684 (8),col_15,602,0.561,text/mixed,… | Quote | and 2 others | and 3 others | @petrogustavo,x-2026-02-09.csv,,content
+16,css-1jxf684 (9),col_16,535,0.4986,text/mixed,"SIMCI | Simci | , 2023). | simci | 2023 de UNODC.",x-2026-02-09.csv,,content
+17,css-1jxf684 (10),col_17,686,0.6393,text/mixed,SIMCI | Simci | ONU Colombia | simci | IMCI-,x-2026-02-09.csv,,content
+18,css-1jxf684 (11),col_18,212,0.1976,text/mixed,". | Distribución 2023:
 Nariño, Cauca, Putumayo, Norte de Santander: 65% | ONU Colombia | , | La SIMCI-UNODC acaba de publicar estos datos:
 El aumento en la producción de cocaína se debe al exponencial crecimiento en el cultivo de coca entre 2020 al 2021, creció aproximadamente 61mil has, un 43% aprox.
 Hay q analizar porque en el gobierno Duque se aumento  el cultivo coca",x-2026-02-09.csv,,content
-19,css-1jxf684 (12),col_19,578,0.6303,metric,1 | 2 | 3 | 4 | 6,x-2026-02-09.csv,,engagement
-20,css-175oi2r href (4),col_20,916,0.9989,url,https://x.com/UNODCROCOL/status/1631323610584317957/analytics | https://x.com/santiagonicols/status/1631313922891427840/analytics | https://x.com/agdahidalguense/status/1980423819731865713/analytics | https://x.com/rommartz/status/1947745814463328538/analytics | https://x.com/AlbertoSierrave/status/1947653859461238980/analytics,x-2026-02-09.csv,analytics_url,
-21,css-1jxf684 (13),col_21,515,0.5616,metric,8 | 16 | 15 | 28 | 11,x-2026-02-09.csv,views,
-22,css-9pa8cd src (2),col_22,354,0.386,url,https://pbs.twimg.com/card_img/2020543710388191232/8oTfBonj?format=jpg&name=medium | https://pbs.twimg.com/profile_images/1769430779845611520/lIgjSJGU_bigger.jpg | https://pbs.twimg.com/profile_images/1647983029262884865/vkBKpKpj_normal.jpg | https://pbs.twimg.com/profile_images/1903192066643070976/0FgN8rmS_normal.jpg | https://pbs.twimg.com/card_img/2020722565791223808/_IKklUGH?format=jpg&name=medium,x-2026-02-09.csv,,content
-23,css-1jxf684 (14),col_23,156,0.1701,text/mixed,… | Show more | SEP Hidalgo | Andres Valencia | Universidad Politécnica de Pachuca,x-2026-02-09.csv,,content
-24,css-1jxf684 (15),col_24,105,0.1145,text/mixed,@JaviSolucionez | @UPPachuca | @SEPHidalgo | . | @elespectador,x-2026-02-09.csv,,content
-25,css-1jxf684 (16),col_25,76,0.0829,text/mixed,· | SIMCI | … | ​EN VIVO: Emisión de Noticias Uno - 17 de enero 2026 | Simci,x-2026-02-09.csv,,content
-26,r-4qtqp9 src,col_26,245,0.2672,url,https://abs-0.twimg.com/emoji/v2/svg/1f1e8-1f1f4.svg | https://abs-0.twimg.com/emoji/v2/svg/1f534.svg | https://abs-0.twimg.com/emoji/v2/svg/1f447.svg | https://abs-0.twimg.com/emoji/v2/svg/1f6a8.svg | https://abs-0.twimg.com/emoji/v2/svg/1f9f5.svg,x-2026-02-09.csv,,content
-27,css-1jxf684 (17),col_27,39,0.0425,text/mixed,"… | La SIMCI-UNODC acaba de publicar estos datos:
+19,css-1jxf684 (12),col_19,687,0.6403,metric,1 | 2 | 3 | 4 | 5,x-2026-02-09.csv,,engagement
+20,css-175oi2r href (4),col_20,1072,0.9991,url,https://x.com/AlbertoSierrave/status/1947653859461238980/analytics | https://x.com/ButDGOAE/status/1632879928109563906/analytics | https://x.com/UNODCROCOL/status/1631323610584317957/analytics | https://x.com/santiagonicols/status/1631313922891427840/analytics | https://x.com/agdahidalguense/status/1980423819731865713/analytics,x-2026-02-09.csv,analytics_url,
+21,css-1jxf684 (13),col_21,518,0.4828,metric,8 | 16 | 15 | 28 | 11,x-2026-02-09.csv,views,
+22,css-9pa8cd src (2),col_22,400,0.3728,url,https://pbs.twimg.com/card_img/2020543710388191232/8oTfBonj?format=jpg&name=medium | https://pbs.twimg.com/profile_images/1769430779845611520/lIgjSJGU_bigger.jpg | https://pbs.twimg.com/profile_images/1088074186654957568/iLXccxo0_normal.jpg | https://pbs.twimg.com/profile_images/1647983029262884865/vkBKpKpj_normal.jpg | https://pbs.twimg.com/profile_images/1903192066643070976/0FgN8rmS_normal.jpg,x-2026-02-09.csv,,content
+23,css-1jxf684 (14),col_23,176,0.164,text/mixed,… | Show more | Universidad Politécnica de Pachuca | ONU Colombia  and 9 others | SEP Hidalgo,x-2026-02-09.csv,,content
+24,css-1jxf684 (15),col_24,116,0.1081,text/mixed,@UPPachuca | @JaviSolucionez | @DanielMRicoV | @SEPHidalgo | .,x-2026-02-09.csv,,content
+25,css-1jxf684 (16),col_25,87,0.0811,text/mixed,· | SIMCI | … | ​EN VIVO: Emisión de Noticias Uno - 17 de enero 2026 | Simci,x-2026-02-09.csv,,content
+26,r-4qtqp9 src,col_26,268,0.2498,url,https://abs-0.twimg.com/emoji/v2/svg/1f1e8-1f1f4.svg | https://abs-0.twimg.com/emoji/v2/svg/1f534.svg | https://abs-0.twimg.com/emoji/v2/svg/1f447.svg | https://abs-0.twimg.com/emoji/v2/svg/1f6a8.svg | https://abs-0.twimg.com/emoji/v2/svg/1f9f5.svg,x-2026-02-09.csv,,content
+27,css-1jxf684 (17),col_27,41,0.0382,text/mixed,"… | , @atilanorp encabezó SIMCI 2021 en la | La SIMCI-UNODC acaba de publicar estos datos:
 El aumento en la producción de cocaína se debe al exponencial crecimiento en el cultivo de coca entre 2020 al 2021, creció aproximadamente 61mil has, un 43% aprox.
-Hay q analizar porque en el gobierno Duque se aumento  el cultivo coca | , @atilanorp encabezó SIMCI 2021 en la | llama ""territorios afectados"" con coca. Junto a | . Con este gobierno LLENO DE BANDIDOS, que se puede esperar?",x-2026-02-09.csv,,content
-28,css-1jxf684 (18),col_28,21,0.0229,text/mixed,Quote | @petrogustavo | ediciones.uniandes.edu.co | google.com | laotraverdad.co,x-2026-02-09.csv,,content
-29,css-1jxf684 (19),col_29,27,0.0294,text/mixed,#OperativoEscudo | #SIMCI | La hoja de coca “echó raíces” en diez municipios de Colombia ... | Levantados de la selva | #Atención,x-2026-02-09.csv,,content
-30,css-1jxf684 (20),col_30,34,0.0371,text/mixed,"http://
-upp.edu.mx/simci/ | La narrativa de la política antidrogas nos impuso la mitología del narco, del cártel y del flagelo. Los medios de comunicación reprodujeron la imagen del “narco-cultivador” y de “la mata que mata”. Mi | Se encontró en Google desde verdadabierta.com | https://
+Hay q analizar porque en el gobierno Duque se aumento  el cultivo coca | trino como ejemplo. x.com/ArielAnaliza/s… | El País Cali",x-2026-02-09.csv,,content
+28,css-1jxf684 (18),col_28,25,0.0233,text/mixed,Quote | @petrogustavo | ediciones.uniandes.edu.co | google.com | laotraverdad.co,x-2026-02-09.csv,,content
+29,css-1jxf684 (19),col_29,29,0.027,text/mixed,#OperativoEscudo | #InformeCultivosIlícitos2018 | Levantados de la selva | #SIMCI | #Atención,x-2026-02-09.csv,,content
+30,css-1jxf684 (20),col_30,43,0.0401,text/mixed,"http://
+upp.edu.mx/simci/ | Se encontró en Google desde verdadabierta.com | La narrativa de la política antidrogas nos impuso la mitología del narco, del cártel y del flagelo. Los medios de comunicación reprodujeron la imagen del “narco-cultivador” y de “la mata que mata”. Mi | https://
 revistaraya.com/el-informe-res
 ervado-que-el-gobierno-envio-a-washington-para-demostrar-las-cifras-erroneas-sobre-la-cocaina.html
-… | destacó incremento área sembrada en 2021: 43% + hectáreas y 14% + cocaína.",x-2026-02-09.csv,,content
-31,css-1jxf684 (21),col_31,306,0.3337,metric,1 | 2 | 3 | 4 | 5,x-2026-02-09.csv,,engagement
-32,css-1jxf684 (23),col_32,200,0.2181,metric,1 | 2 | 4 | 9 | 3,x-2026-02-09.csv,,engagement
-33,css-1jxf684 (24),col_33,44,0.048,metric,8 | 10 | 4 | 1 | 6,x-2026-02-09.csv,,engagement
-34,css-1jxf684 href (4),col_34,154,0.1679,url,https://x.com/hashtag/SIMCI?src=hashtag_click | https://x.com/hashtag/OrgulloUPP?src=hashtag_click | https://t.co/gALg6ocWcx | https://x.com/hashtag/Simci?src=hashtag_click | https://x.com/petrogustavo,x-2026-02-09.csv,,content
-35,r-4qtqp9 src (2),col_35,119,0.1298,url,https://abs-0.twimg.com/emoji/v2/svg/1f1e8-1f1f4.svg | https://abs-0.twimg.com/emoji/v2/svg/1f331.svg | https://abs-0.twimg.com/emoji/v2/svg/1f343.svg | https://abs-0.twimg.com/emoji/v2/svg/1f447.svg | https://abs-0.twimg.com/emoji/v2/svg/1f926-1f3fb-200d-2642-fe0f.svg,x-2026-02-09.csv,,content
-36,css-175oi2r href (5),col_36,317,0.3457,url,https://x.com/i/grok | https://x.com/JaviSolucionez/status/1847674357776089234/photo/1 | https://t.co/DHQMTsSP58 | https://x.com/SEPHidalgo/status/1428424023617282048/photo/1 | https://x.com/SEPHidalgo/status/1443601297110929419/photo/1,x-2026-02-09.csv,,content
-37,css-9pa8cd src (3),col_37,100,0.1091,url,https://pbs.twimg.com/media/GaRBos7WYAARhr0?format=png&name=small | https://pbs.twimg.com/media/E9E5_9wXEAQpZMg?format=jpg&name=medium | https://pbs.twimg.com/media/EBOg_r0WsAUGDRT?format=jpg&name=small | https://pbs.twimg.com/profile_images/1822957904644739072/BXonw0wU_bigger.jpg | https://pbs.twimg.com/media/GwZDWgDXcAEefbq?format=jpg&name=900x900,x-2026-02-09.csv,,content
-38,css-175oi2r href (6),col_38,71,0.0774,url,https://t.co/XtmInX2McB | https://x.com/DanielMejiaL/status/2015861911280353508/photo/3 | https://x.com/JC_Sandino/status/1513680702683987979/photo/3 | https://x.com/CITNOVA/status/1426218849456754690/photo/2 | https://x.com/UNODCROCOL/status/1443266660798959620/photo/2,x-2026-02-09.csv,,content
-39,css-9pa8cd src (4),col_39,38,0.0414,url,https://pbs.twimg.com/media/EBOg_r2XsAMXrZE?format=jpg&name=small | https://abs.twimg.com/responsive-web/client-web/parody-mask.92274f0a.svg | https://pbs.twimg.com/media/FAeDX7yWEAYhgy7?format=jpg&name=small | https://pbs.twimg.com/media/F6jmdmgWsAAGwjV?format=jpg&name=small | https://pbs.twimg.com/media/F50tuu8bwAAQFLG?format=png&name=small,x-2026-02-09.csv,,content
-40,css-175oi2r href (7),col_40,34,0.0371,url,https://x.com/DanielMejiaL/status/2015861911280353508/photo/4 | https://x.com/JulioAcelas/status/1421860001338073094/photo/3 | https://x.com/M_AaronZ/status/1701567818654011456/photo/4 | https://x.com/JuniorMaldon1/status/1701300499033583618/photo/4 | https://x.com/JUANMATOER/status/1583268671534747648/photo/3,x-2026-02-09.csv,,content
-41,css-9pa8cd src (5),col_41,33,0.036,url,https://pbs.twimg.com/media/EBOg_r3XoAIKXCo?format=jpg&name=small | https://pbs.twimg.com/media/G7SR_4MXoAAlYu4?format=jpg&name=900x900 | https://pbs.twimg.com/media/EHL8HsoX0AAuU1H?format=jpg&name=small | https://pbs.twimg.com/media/EHL9XNAWwAUYkH3?format=jpg&name=small | https://pbs.twimg.com/media/Ebcs-VDXkAAPWty?format=jpg&name=small,x-2026-02-09.csv,,content
-42,css-146c3p1 href (2),col_42,97,0.1058,url,https://t.co/DHQMTsSP58 | https://x.com/UNODCROCOL/status/1631323610584317957/media_tags | https://t.co/No1g74jNz7 | https://x.com/BluRadioCo/status/1854215644859744445 | https://t.co/mY8aVEDPtW,x-2026-02-09.csv,,content
-43,css-146c3p1 (3),col_43,31,0.0338,text/mixed,From eltiempo.com | From elespectador.com | From cambiocolombia.com | From lajornadahidalgo.com | From lanacion.com.co,x-2026-02-09.csv,,content
-44,r-4qtqp9 src (3),col_44,82,0.0894,url,https://abs-0.twimg.com/emoji/v2/svg/1f1fa-1f1f3.svg | https://abs-0.twimg.com/emoji/v2/svg/1f1e8-1f1f4.svg | https://abs-0.twimg.com/emoji/v2/svg/1f489.svg | https://abs-0.twimg.com/emoji/v2/svg/1f447.svg | https://abs-0.twimg.com/emoji/v2/svg/1f449.svg,x-2026-02-09.csv,,content
-45,css-9pa8cd src (6),col_45,3,0.0033,url,https://pbs.twimg.com/media/G7PU5ANWcAEJK4p?format=jpg&name=360x360 | https://pbs.twimg.com/media/GQUDH73WgAAHLAP?format=jpg&name=360x360 | https://pbs.twimg.com/media/FPB9aRzXIAQqzAB?format=jpg&name=360x360,x-2026-02-09.csv,,content
-46,r-4qtqp9 src (4),col_46,40,0.0436,url,https://abs-0.twimg.com/emoji/v2/svg/1f50e.svg | https://abs-0.twimg.com/emoji/v2/svg/1f449.svg | https://abs-0.twimg.com/emoji/v2/svg/1f1e8-1f1f4.svg | https://abs-0.twimg.com/emoji/v2/svg/25b6.svg | https://abs-0.twimg.com/emoji/v2/svg/1f447.svg,x-2026-02-09.csv,,content
-47,r-4qtqp9 src (5),col_47,19,0.0207,url,https://abs-0.twimg.com/emoji/v2/svg/1f448.svg | https://abs-0.twimg.com/emoji/v2/svg/2705.svg | https://abs-0.twimg.com/emoji/v2/svg/1f447.svg | https://abs-0.twimg.com/emoji/v2/svg/1f469-1f3fc-200d-1f4bc.svg | https://abs-0.twimg.com/emoji/v2/svg/1f923.svg,x-2026-02-09.csv,,content
-48,css-1jxf684 href (5),col_48,45,0.0491,url,https://x.com/hashtag/SIMCI?src=hashtag_click | https://x.com/PlaneacionSEPH | https://x.com/simciupp | https://x.com/SriaAcademica | https://x.com/hashtag/coca%C3%ADna?src=hashtag_click,x-2026-02-09.csv,,content
-49,css-1jxf684 href (6),col_49,41,0.0447,url,https://x.com/Est_Profesional | https://x.com/DEAHQ | https://x.com/hashtag/OrgulloUPP?src=hashtag_click | https://t.co/NAphfp8xBH | https://t.co/MaSCldAw1a,x-2026-02-09.csv,,content
-50,css-1jxf684 href (7),col_50,21,0.0229,url,https://x.com/UPPach_Posgrado | https://x.com/hashtag/SIMCI?src=hashtag_click | https://x.com/UPPlaneacion | https://x.com/ForoMadrid | https://x.com/INIAPeru,x-2026-02-09.csv,,content
-51,r-4qtqp9 src (6),col_51,12,0.0131,url,https://abs-0.twimg.com/emoji/v2/svg/1f447.svg | https://abs-0.twimg.com/emoji/v2/svg/1f923.svg | https://abs-0.twimg.com/emoji/v2/svg/2935.svg | https://abs-0.twimg.com/emoji/v2/svg/26a0.svg | https://abs-0.twimg.com/emoji/v2/svg/1f621.svg,x-2026-02-09.csv,,content
-52,r-4qtqp9 src (7),col_52,5,0.0055,url,https://abs-0.twimg.com/emoji/v2/svg/1f923.svg | https://abs-0.twimg.com/emoji/v2/svg/1f621.svg | https://abs-0.twimg.com/emoji/v2/svg/1f447.svg | https://abs-0.twimg.com/emoji/v2/svg/1f49c.svg | https://abs-0.twimg.com/emoji/v2/svg/1f51b.svg,x-2026-02-09.csv,,content
-53,r-4qtqp9 src (8),col_53,3,0.0033,url,https://abs-0.twimg.com/emoji/v2/svg/1f923.svg | https://abs-0.twimg.com/emoji/v2/svg/1f447.svg | https://abs-0.twimg.com/emoji/v2/svg/1f1e8-1f1f4.svg,x-2026-02-09.csv,,content
-54,r-4qtqp9 src (9),col_54,7,0.0076,url,https://abs-0.twimg.com/emoji/v2/svg/1f1fa-1f1f3.svg | https://abs-0.twimg.com/emoji/v2/svg/1f923.svg,x-2026-02-09.csv,,content
-55,r-1p0dtai src,col_55,3,0.0033,url,https://video.twimg.com/tweet_video/GoIAxMyWQAAjyiO.mp4 | https://video.twimg.com/tweet_video/GV7eSSbWcAACnuf.mp4 | https://video.twimg.com/tweet_video/Fj8m0CfWAAErzDP.mp4,x-2026-02-09.csv,,content
-56,css-1jxf684 (25),col_56,7,0.0076,text/mixed,"#OrgulloUPP | #COP16 | https://
+… | https://
+caracol.com.co/radio/2021/07/
+29/judicial/1627587071_310137.html?utm_medium=Social&utm_source=Twitter#Echobox=1627587715-1
+…",x-2026-02-09.csv,,content
+31,css-1jxf684 (21),col_31,385,0.3588,metric,1 | 2 | 3 | 4 | 5,x-2026-02-09.csv,,engagement
+32,css-1jxf684 (23),col_32,227,0.2116,metric,1 | 2 | 4 | 9 | 3,x-2026-02-09.csv,,engagement
+33,css-1jxf684 (24),col_33,44,0.041,metric,8 | 10 | 4 | 1 | 6,x-2026-02-09.csv,,engagement
+34,css-1jxf684 href (4),col_34,171,0.1594,url,https://x.com/hashtag/SIMCI?src=hashtag_click | https://x.com/hashtag/OrgulloUPP?src=hashtag_click | https://t.co/gALg6ocWcx | https://x.com/hashtag/Simci?src=hashtag_click | https://x.com/hashtag/GobiernoDeLaMentira?src=hashtag_click,x-2026-02-09.csv,,content
+35,r-4qtqp9 src (2),col_35,129,0.1202,url,https://abs-0.twimg.com/emoji/v2/svg/1f1e8-1f1f4.svg | https://abs-0.twimg.com/emoji/v2/svg/1f331.svg | https://abs-0.twimg.com/emoji/v2/svg/1f447.svg | https://abs-0.twimg.com/emoji/v2/svg/1f343.svg | https://abs-0.twimg.com/emoji/v2/svg/1f926-1f3fb-200d-2642-fe0f.svg,x-2026-02-09.csv,,content
+36,css-175oi2r href (5),col_36,356,0.3318,url,https://x.com/i/grok | https://x.com/JaviSolucionez/status/1847674357776089234/photo/1 | https://t.co/DHQMTsSP58 | https://x.com/SEPHidalgo/status/1428424023617282048/photo/1 | https://x.com/SEPHidalgo/status/1443601297110929419/photo/1,x-2026-02-09.csv,,content
+37,css-9pa8cd src (3),col_37,110,0.1025,url,https://pbs.twimg.com/media/GaRBos7WYAARhr0?format=png&name=small | https://pbs.twimg.com/media/FAizuYQX0AEOY5T?format=jpg&name=medium | https://pbs.twimg.com/profile_images/1822957904644739072/BXonw0wU_bigger.jpg | https://pbs.twimg.com/media/GwZDWgDXcAEefbq?format=jpg&name=900x900 | https://pbs.twimg.com/media/EA-foypXUAEN8S-?format=jpg&name=medium,x-2026-02-09.csv,,content
+38,css-175oi2r href (6),col_38,78,0.0727,url,https://t.co/XtmInX2McB | https://x.com/DanielMejiaL/status/2015861911280353508/photo/3 | https://x.com/senad_paraguay/status/1458928272348225537/photo/2 | https://x.com/UNODCROCOL/status/1318923522211782660/photo/2 | https://x.com/UNODCROCOL/status/1333785803890126853/photo/2,x-2026-02-09.csv,,content
+39,css-9pa8cd src (4),col_39,39,0.0363,url,https://pbs.twimg.com/media/EBOg_r2XsAMXrZE?format=jpg&name=small | https://abs.twimg.com/responsive-web/client-web/parody-mask.92274f0a.svg | https://pbs.twimg.com/media/G_nHuWPXkAEBPqT?format=jpg&name=small | https://pbs.twimg.com/media/FAeDX7yWEAYhgy7?format=jpg&name=small | https://pbs.twimg.com/media/F6jmdmgWsAAGwjV?format=jpg&name=small,x-2026-02-09.csv,,content
+40,css-175oi2r href (7),col_40,35,0.0326,url,https://x.com/DanielMejiaL/status/2015861911280353508/photo/4 | https://x.com/UNODCROCOL/status/1333785803890126853/photo/3 | https://x.com/JuniorMaldon1/status/1701300499033583618/photo/4 | https://x.com/JUANMATOER/status/1583268671534747648/photo/3 | https://x.com/JC_Sandino/status/1513680702683987979/photo/4,x-2026-02-09.csv,,content
+41,css-9pa8cd src (5),col_41,34,0.0317,url,https://pbs.twimg.com/media/EBOg_r3XoAIKXCo?format=jpg&name=small | https://pbs.twimg.com/media/G_nHuWJW8AEKxyU?format=jpg&name=small | https://pbs.twimg.com/media/F6rG8KKWoAElsPj?format=jpg&name=small | https://pbs.twimg.com/media/EHL8HsoX0AAuU1H?format=jpg&name=small | https://pbs.twimg.com/media/EHL9XNAWwAUYkH3?format=jpg&name=small,x-2026-02-09.csv,,content
+42,css-146c3p1 href (2),col_42,113,0.1053,url,https://t.co/DHQMTsSP58 | https://x.com/BluRadioCo/status/1854215644859744445 | https://x.com/UNODCROCOL/status/1631323610584317957/media_tags | https://t.co/No1g74jNz7 | https://t.co/mY8aVEDPtW,x-2026-02-09.csv,,content
+43,css-146c3p1 (3),col_43,31,0.0289,text/mixed,From eltiempo.com | From elespectador.com | From cambiocolombia.com | From lajornadahidalgo.com | From lanacion.com.co,x-2026-02-09.csv,,content
+44,r-4qtqp9 src (3),col_44,96,0.0895,url,https://abs-0.twimg.com/emoji/v2/svg/1f1e8-1f1f4.svg | https://abs-0.twimg.com/emoji/v2/svg/1f1fa-1f1f3.svg | https://abs-0.twimg.com/emoji/v2/svg/1f447.svg | https://abs-0.twimg.com/emoji/v2/svg/1f489.svg | https://abs-0.twimg.com/emoji/v2/svg/1f449.svg,x-2026-02-09.csv,,content
+45,css-9pa8cd src (6),col_45,3,0.0028,url,https://pbs.twimg.com/media/G7PU5ANWcAEJK4p?format=jpg&name=360x360 | https://pbs.twimg.com/media/GQUDH73WgAAHLAP?format=jpg&name=360x360 | https://pbs.twimg.com/media/FPB9aRzXIAQqzAB?format=jpg&name=360x360,x-2026-02-09.csv,,content
+46,r-4qtqp9 src (4),col_46,49,0.0457,url,https://abs-0.twimg.com/emoji/v2/svg/1f50e.svg | https://abs-0.twimg.com/emoji/v2/svg/1f447.svg | https://abs-0.twimg.com/emoji/v2/svg/1f449.svg | https://abs-0.twimg.com/emoji/v2/svg/1f1e8-1f1f4.svg | https://abs-0.twimg.com/emoji/v2/svg/25b6.svg,x-2026-02-09.csv,,content
+47,r-4qtqp9 src (5),col_47,25,0.0233,url,https://abs-0.twimg.com/emoji/v2/svg/1f447.svg | https://abs-0.twimg.com/emoji/v2/svg/1f448.svg | https://abs-0.twimg.com/emoji/v2/svg/2705.svg | https://abs-0.twimg.com/emoji/v2/svg/1f1e8-1f1f4.svg | https://abs-0.twimg.com/emoji/v2/svg/1f469-1f3fc-200d-1f4bc.svg,x-2026-02-09.csv,,content
+48,css-1jxf684 href (5),col_48,50,0.0466,url,https://x.com/hashtag/SIMCI?src=hashtag_click | https://x.com/PlaneacionSEPH | https://x.com/simciupp | https://x.com/SriaAcademica | https://x.com/hashtag/coca%C3%ADna?src=hashtag_click,x-2026-02-09.csv,,content
+49,css-1jxf684 href (6),col_49,44,0.041,url,https://x.com/Est_Profesional | https://x.com/hashtag/OrgulloUPP?src=hashtag_click | https://x.com/DEAHQ | https://x.com/hashtag/EnVivo?src=hashtag_click | https://x.com/UPPlaneacion,x-2026-02-09.csv,,content
+50,css-1jxf684 href (7),col_50,21,0.0196,url,https://x.com/UPPach_Posgrado | https://x.com/hashtag/SIMCI?src=hashtag_click | https://x.com/UPPlaneacion | https://x.com/ForoMadrid | https://x.com/INIAPeru,x-2026-02-09.csv,,content
+51,r-4qtqp9 src (6),col_51,15,0.014,url,https://abs-0.twimg.com/emoji/v2/svg/1f447.svg | https://abs-0.twimg.com/emoji/v2/svg/1f539.svg | https://abs-0.twimg.com/emoji/v2/svg/1f923.svg | https://abs-0.twimg.com/emoji/v2/svg/2935.svg | https://abs-0.twimg.com/emoji/v2/svg/26a0.svg,x-2026-02-09.csv,,content
+52,r-4qtqp9 src (7),col_52,6,0.0056,url,https://abs-0.twimg.com/emoji/v2/svg/1f923.svg | https://abs-0.twimg.com/emoji/v2/svg/1f621.svg | https://abs-0.twimg.com/emoji/v2/svg/1f447.svg | https://abs-0.twimg.com/emoji/v2/svg/1f49c.svg | https://abs-0.twimg.com/emoji/v2/svg/1f51b.svg,x-2026-02-09.csv,,content
+53,r-4qtqp9 src (8),col_53,4,0.0037,url,https://abs-0.twimg.com/emoji/v2/svg/1f923.svg | https://abs-0.twimg.com/emoji/v2/svg/1f447.svg | https://abs-0.twimg.com/emoji/v2/svg/1f1e8-1f1f4.svg | https://abs-0.twimg.com/emoji/v2/svg/1f3eb.svg,x-2026-02-09.csv,,content
+54,r-4qtqp9 src (9),col_54,9,0.0084,url,https://abs-0.twimg.com/emoji/v2/svg/1f1fa-1f1f3.svg | https://abs-0.twimg.com/emoji/v2/svg/1f923.svg | https://abs-0.twimg.com/emoji/v2/svg/1f4da.svg,x-2026-02-09.csv,,content
+55,r-1p0dtai src,col_55,3,0.0028,url,https://video.twimg.com/tweet_video/GoIAxMyWQAAjyiO.mp4 | https://video.twimg.com/tweet_video/GV7eSSbWcAACnuf.mp4 | https://video.twimg.com/tweet_video/Fj8m0CfWAAErzDP.mp4,x-2026-02-09.csv,,content
+56,css-1jxf684 (25),col_56,9,0.0084,text/mixed,"#OrgulloUPP | #CultivosDeCoca | #COP16 | https://
 elpais.com/america-colomb
 ia/2022-10-20/colombia-rompe-su-record-de-cultivos-de-coca.html?ssm=TW_CC
-… | @yncas422 | http://
-upp.edu.mx/simci",x-2026-02-09.csv,,content
-57,css-1jxf684 (28),col_57,4,0.0044,text/mixed,Pegasus | no publicó Informe a tiempo.(1) | @Juan_Ramro | Ciencias de la Educación,x-2026-02-09.csv,,content
-58,css-1jxf684 href (8),col_58,13,0.0142,url,https://x.com/cultura_upp | https://x.com/A_Espacial_Peru | https://x.com/ElNuevoSiglo | https://x.com/Est_Profesional | https://x.com/UPPach_Posgrado,x-2026-02-09.csv,,content
-59,css-1jxf684 href (10),col_59,7,0.0076,url,https://x.com/midagriperu | https://x.com/federicorios | https://x.com/UPPach_Posgrado | https://x.com/UPPachuca | https://x.com/cultura_upp,x-2026-02-09.csv,,content
-60,css-1jxf684 href (11),col_60,2,0.0022,url,https://x.com/C_Pueblos | https://x.com/hashtag/campesinos?src=hashtag_click,x-2026-02-09.csv,,content
+… | @yncas422",x-2026-02-09.csv,,content
+57,css-1jxf684 (26),col_57,3,0.0028,text/mixed,#CultivosDeCoca | #COP16Colombia,x-2026-02-09.csv,,content
+58,css-1jxf684 (28),col_58,6,0.0056,text/mixed,"Pegasus | no publicó Informe a tiempo.(1) | @Juan_Ramro | Ciencias de la Educación | Principales hallazgos (tendencias, distribución, tamaño de los lotes)",x-2026-02-09.csv,,content
+59,css-1jxf684 href (8),col_59,14,0.013,url,https://x.com/cultura_upp | https://x.com/A_Espacial_Peru | https://x.com/ElNuevoSiglo | https://x.com/Est_Profesional | https://x.com/UPPach_Posgrado,x-2026-02-09.csv,,content
+60,css-1jxf684 href (10),col_60,7,0.0065,url,https://x.com/midagriperu | https://x.com/federicorios | https://x.com/UPPach_Posgrado | https://x.com/UPPachuca | https://x.com/cultura_upp,x-2026-02-09.csv,,content
+61,css-1jxf684 href (11),col_61,2,0.0019,url,https://x.com/C_Pueblos | https://x.com/hashtag/campesinos?src=hashtag_click,x-2026-02-09.csv,,content
