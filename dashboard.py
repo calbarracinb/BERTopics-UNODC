@@ -498,9 +498,6 @@ def main() -> None:
           .stApp {
             background: radial-gradient(circle at top right, #eaf5f7 0%, #ddeaf2 44%, #f7f6f2 100%);
           }
-          #root > div:nth-child(1) > div > div > div > div > section > div {
-            padding-top: 0rem;
-          }
           [data-testid="stSidebar"] {
             background: linear-gradient(180deg, #133a55 0%, #1b4f6d 100%);
             border-right: 1px solid rgba(255, 255, 255, 0.16);
